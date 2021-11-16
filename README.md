@@ -9,7 +9,16 @@
 # 技术栈
 - **Vue全家桶：vue+vue-router+vuex**
 - **react全家桶：react+react-router-dom+redux**
-- **node+express+mongoose+expressJwt+expressWs+node-rsa+formidable**
 - **websocket**
 - **uniapp+uView+antd**
 - **高德地图api+腾讯地图api**
+- **node+express+mongoose+expressJwt+expressWs+node-rsa+formidable**
+- **axios+jsencrypt**
+
+# 效果演示
+
+### 用户界面
+
+**主界面**
+
+
